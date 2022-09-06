@@ -7,4 +7,4 @@ resources:
   - weave-gitops.yaml
   - keda.yaml
   - sealed-secrets.yaml
-#  - rabbitmq.yaml 
+  - rabbitmq.yaml 
