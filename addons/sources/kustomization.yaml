@@ -6,4 +6,3 @@ resources:
   - ingress-nginx.yaml
   - weave-gitops.yaml
   - keda.yaml
-  - bitnami.yaml
